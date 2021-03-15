@@ -1,0 +1,108 @@
+.header-bg {
+  background-color: rgb(255, 255, 255);
+  width: 100%;
+  height: 70px;
+}
+
+.normal-link{
+  text-decoration: none;
+  color: black;
+}
+
+.header-brand {
+  font-size: 1em;
+}
+
+.header-login {
+  background-color: white;
+  color: rgb(50, 50, 50);
+  font-weight: 600;
+  border: none;
+}
+
+.header-sign {
+  background-color: rgb(50, 50, 50);
+  color: rgb(255, 255, 255);
+  font-weight: 600;
+  border: none;
+}
+
+.header-login:hover {
+  background-color: rgb(243, 243, 243);
+  color: rgb(50, 50, 50);
+}
+
+.header-sign:hover {
+  background-color: rgb(243, 243, 243);
+}
+
+.search{
+  width: 40%;
+}
+
+.cart:hover{
+  cursor: pointer;
+  color: rgb(173, 173, 173) !important;
+}
+
+.notif:hover{
+  cursor: pointer;
+  color: rgb(173, 173, 173) !important;
+}
+
+.msg:hover{
+  cursor: pointer;
+  color: rgb(173, 173, 173) !important;
+}
+
+.inputSearch:focus{
+  border: 1px solid rgb(50, 50, 50) !important;
+  outline: none !important;
+}
+
+.modal-login{
+  width: 400px !important;
+  margin: 0, 20px, 0, 20px;
+  top: 80px;
+}
+
+.title-login{
+  margin-top: 40px;
+  font-weight: 600;
+  padding-left: 135px;
+  color: rgb(100, 100, 100);
+}
+
+.login-header{
+  background-color: white;
+  border-bottom: none !important;
+}
+
+.modal-footer{
+  background-color: rgb(241, 241, 241);
+  padding-right: 80px !important;
+}
+
+.tombol-login{
+  margin-top: 10px;
+  width: 100%;
+  height: 60px;
+  background-color: rgb(50, 50, 50) !important;
+  border: none;
+}
+
+.errorr:hover{
+  cursor: pointer;
+}
+
+.kategori{
+  list-style-type: none;
+  margin-right: 0;
+  align-items: center;
+}
+
+.li{
+  margin-right: 18px;
+  font-size: 16px;
+  cursor: pointer;
+}

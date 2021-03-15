@@ -1,0 +1,7 @@
+.breadcrumb{
+  background-color: white !important;
+  font-size: 13px;
+}
+ol.breadcrumb {
+  padding-left: 0px;
+}
